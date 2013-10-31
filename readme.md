@@ -1,4 +1,7 @@
 # Fine Uploader 3.2 (Released January 13) #
+### Notes ###
+This is a copy of the v3.2 source when it was last licensed as GPL/LGPL earlier in 2013. It's here since we were using it under the LGPL license, and the LGPL licensed source was
+removed when the project transferred ownership to Widen and the next version was released.  It's here purely so I have a copy of it.
 ### 3.3 is the next planned release ###
 
 ###[Download the 3.2 combined & minified javascript file (along with all other required files) here](https://github.com/valums/file-uploader/wiki/Releases)###
